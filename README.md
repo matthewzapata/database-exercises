@@ -1,3 +1,3 @@
 # Codeup Database Exercises
 
-These are my solutions to the database exercises.
+These are my solutions to the database exercises for Codeup.
